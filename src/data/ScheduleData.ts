@@ -7,7 +7,7 @@ export const allData: Schedule = [
     activities: [
       {
         name: 'Introduction + Goal-Setting',
-        time: '10:30AM - 10:40AM',
+        time: '',
         duration: '10',
         actType: 'lecture',
         links: [
@@ -20,7 +20,7 @@ export const allData: Schedule = [
       },
       {
         name: 'AI Conversation Starter',
-        time: '10:40AM - 10:45AM',
+        time: '',
         duration: '20',
         actType: 'coreskill',
         links: [
@@ -33,7 +33,7 @@ export const allData: Schedule = [
       },
       {
         name: 'What Can ChatGPT Do?',
-        time: '10:45AM - 11:00AM',
+        time: '',
         duration: '20',
         actType: 'coreskill',
         links: [
@@ -57,7 +57,7 @@ export const allData: Schedule = [
       },
       {
         name: "What Can't ChatGPT Do?",
-        time: '11:00AM - 11:10AM',
+        time: '',
         duration: '20',
         actType: 'lecture',
         links: [
@@ -70,7 +70,7 @@ export const allData: Schedule = [
       },
       {
         name: 'Enhancing Learning with ChatGPT',
-        time: '11:10AM - 11:20AM',
+        time: '',
         duration: '20',
         actType: 'coreskill',
         links: [
@@ -88,7 +88,7 @@ export const allData: Schedule = [
       },
       {
         name: 'Wrap Up',
-        time: '11:20AM - 11:30AM',
+        time: '',
         duration: '10',
         actType: 'lecture',
         links: [
